@@ -9,7 +9,7 @@ The program stores the user's 32 differnet options, calculates the answer and pr
 <h1>How to Run the program?</h1>
 <ul>
   <li>First you need to find an online IDE for e.g. <a href="https://www.onlinegdb.com/online_c_compiler" alt="online-c-compiler">online c compiler</a> or <a href="https://ide.cs50.io/" alt="cs50-sandbox">CS50 IDE</a></li>
-  <li>Copy the C code and paste it into the IDE.</li>
+  <li>Copy the C code and paste it into the IDE.(located in master branch/mainprogram.c)</li>
   <li>Compile the code.</li>
   <li>Run the code.</li>
   <li>Read the instructions carefully to avoid any error.</li>
