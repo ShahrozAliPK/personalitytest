@@ -13,5 +13,8 @@ The program stores the user's 32 differnet options, calculates the answer and pr
   <li>Compile the code.</li>
   <li>Run the code.</li>
   <li>Read the instructions carefully to avoid any error.</li>
+  <li>Download the .txt file from the source directory.</li>
   <li>Enjoy!</li>
 </ul>
+
+<p>Now you have come to know about the secrets of your personality! Download,save,print and enjoy!</p>
