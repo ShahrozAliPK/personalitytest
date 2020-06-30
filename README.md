@@ -4,7 +4,7 @@ Results are based upon the user's correct answers when they are asked 32 differe
 The program stores the user's 32 differnet options, calculates the answer and print it out in a text file.</p>
 
 <h3>What inspire me?</h3>
-<p>I didn't come up with this project if my sister didn't told me about this.She was given a task to complete a quiz of her BBA assignment which was a quiz based upon your personality test.When I come to know about this quiz, I decided to implement it in the form of a program to practice my C language skills and get more experience regarding algorithms, data structures and computational logic.And finally, after several weeks I am done with this program.</p>
+<p>I didn't come up with this project if my sister didn't told me about this.She was given a task to complete a quiz of her BBA assignment which was a quiz to complete the personality test.When I come to know about this quiz, I decided to implement it in the form of a program to practice my C language skills and get more experience regarding algorithms, data structures and computational logic.And finally, after several weeks I am done with this program.</p>
 
 <h1>How to Run the program?</h1>
 <ul>
